@@ -1,3 +1,5 @@
+# GIT nuestro. El inicio de todo geek.
+
 *Git* nuestro que estas en los repos
 Comprimidos sean tus *commits*
 Venga a nosotros tu *log*
